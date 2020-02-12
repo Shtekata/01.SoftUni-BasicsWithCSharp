@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 08.18\Going Home\bin\Debug\netcoreapp2.1\Going Home.deps.json
+D:\Projects\Basics Online Exam 08.18\Going Home\bin\Debug\netcoreapp2.1\Going Home.runtimeconfig.json
+D:\Projects\Basics Online Exam 08.18\Going Home\bin\Debug\netcoreapp2.1\Going Home.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 08.18\Going Home\bin\Debug\netcoreapp2.1\Going Home.dll
+D:\Projects\Basics Online Exam 08.18\Going Home\bin\Debug\netcoreapp2.1\Going Home.pdb
+D:\Projects\Basics Online Exam 08.18\Going Home\obj\Debug\netcoreapp2.1\Going Home.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 08.18\Going Home\obj\Debug\netcoreapp2.1\Going Home.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 08.18\Going Home\obj\Debug\netcoreapp2.1\Going Home.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 08.18\Going Home\obj\Debug\netcoreapp2.1\Going Home.dll
+D:\Projects\Basics Online Exam 08.18\Going Home\obj\Debug\netcoreapp2.1\Going Home.pdb
+D:\Projects\Basics Online Exam 08.18\Going Home\obj\Debug\netcoreapp2.1\Going Home.csprojAssemblyReference.cache

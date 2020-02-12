@@ -1,0 +1,11 @@
+D:\Projects\Nested Conditional Statements\Day of Week\bin\Debug\netcoreapp2.1\Day of Week.deps.json
+D:\Projects\Nested Conditional Statements\Day of Week\bin\Debug\netcoreapp2.1\Day of Week.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Day of Week\bin\Debug\netcoreapp2.1\Day of Week.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Day of Week\bin\Debug\netcoreapp2.1\Day of Week.dll
+D:\Projects\Nested Conditional Statements\Day of Week\bin\Debug\netcoreapp2.1\Day of Week.pdb
+D:\Projects\Nested Conditional Statements\Day of Week\obj\Debug\netcoreapp2.1\Day of Week.csprojAssemblyReference.cache
+D:\Projects\Nested Conditional Statements\Day of Week\obj\Debug\netcoreapp2.1\Day of Week.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Day of Week\obj\Debug\netcoreapp2.1\Day of Week.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Day of Week\obj\Debug\netcoreapp2.1\Day of Week.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Day of Week\obj\Debug\netcoreapp2.1\Day of Week.dll
+D:\Projects\Nested Conditional Statements\Day of Week\obj\Debug\netcoreapp2.1\Day of Week.pdb

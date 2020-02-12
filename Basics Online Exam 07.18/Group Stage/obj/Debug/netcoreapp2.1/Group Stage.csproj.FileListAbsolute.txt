@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Group Stage\bin\Debug\netcoreapp2.1\Group Stage.deps.json
+D:\Projects\Basics Online Exam 07.18\Group Stage\bin\Debug\netcoreapp2.1\Group Stage.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Group Stage\bin\Debug\netcoreapp2.1\Group Stage.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Group Stage\bin\Debug\netcoreapp2.1\Group Stage.dll
+D:\Projects\Basics Online Exam 07.18\Group Stage\bin\Debug\netcoreapp2.1\Group Stage.pdb
+D:\Projects\Basics Online Exam 07.18\Group Stage\obj\Debug\netcoreapp2.1\Group Stage.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Group Stage\obj\Debug\netcoreapp2.1\Group Stage.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Group Stage\obj\Debug\netcoreapp2.1\Group Stage.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Group Stage\obj\Debug\netcoreapp2.1\Group Stage.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Group Stage\obj\Debug\netcoreapp2.1\Group Stage.dll
+D:\Projects\Basics Online Exam 07.18\Group Stage\obj\Debug\netcoreapp2.1\Group Stage.pdb

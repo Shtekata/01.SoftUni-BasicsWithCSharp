@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\bin\Debug\netcoreapp2.1\Beer And Chips.deps.json
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\bin\Debug\netcoreapp2.1\Beer And Chips.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\bin\Debug\netcoreapp2.1\Beer And Chips.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\bin\Debug\netcoreapp2.1\Beer And Chips.dll
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\bin\Debug\netcoreapp2.1\Beer And Chips.pdb
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\obj\Debug\netcoreapp2.1\Beer And Chips.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\obj\Debug\netcoreapp2.1\Beer And Chips.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\obj\Debug\netcoreapp2.1\Beer And Chips.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\obj\Debug\netcoreapp2.1\Beer And Chips.dll
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\obj\Debug\netcoreapp2.1\Beer And Chips.pdb
+D:\Projects\Basics Online Exam 07.18\Beer And Chips\obj\Debug\netcoreapp2.1\Beer And Chips.csprojAssemblyReference.cache

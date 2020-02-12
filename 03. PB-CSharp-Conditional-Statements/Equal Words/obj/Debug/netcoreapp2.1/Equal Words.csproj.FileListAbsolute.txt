@@ -1,0 +1,10 @@
+D:\Projects\Simple-Conditions\Equal Words\bin\Debug\netcoreapp2.1\Equal Words.deps.json
+D:\Projects\Simple-Conditions\Equal Words\bin\Debug\netcoreapp2.1\Equal Words.runtimeconfig.json
+D:\Projects\Simple-Conditions\Equal Words\bin\Debug\netcoreapp2.1\Equal Words.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Equal Words\bin\Debug\netcoreapp2.1\Equal Words.dll
+D:\Projects\Simple-Conditions\Equal Words\bin\Debug\netcoreapp2.1\Equal Words.pdb
+D:\Projects\Simple-Conditions\Equal Words\obj\Debug\netcoreapp2.1\Equal Words.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Equal Words\obj\Debug\netcoreapp2.1\Equal Words.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Equal Words\obj\Debug\netcoreapp2.1\Equal Words.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Equal Words\obj\Debug\netcoreapp2.1\Equal Words.dll
+D:\Projects\Simple-Conditions\Equal Words\obj\Debug\netcoreapp2.1\Equal Words.pdb

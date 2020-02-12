@@ -1,0 +1,10 @@
+D:\Projects\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.deps.json
+D:\Projects\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.json
+D:\Projects\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.dev.json
+D:\Projects\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.dll
+D:\Projects\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.pdb
+D:\Projects\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.csproj.CoreCompileInputs.cache
+D:\Projects\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfoInputs.cache
+D:\Projects\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfo.cs
+D:\Projects\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.dll
+D:\Projects\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.pdb

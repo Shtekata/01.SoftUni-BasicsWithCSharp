@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Rhombus of Stars\bin\Debug\netcoreapp2.1\Rhombus of Stars.deps.json
+D:\Projects\Nested Loops\Rhombus of Stars\bin\Debug\netcoreapp2.1\Rhombus of Stars.runtimeconfig.json
+D:\Projects\Nested Loops\Rhombus of Stars\bin\Debug\netcoreapp2.1\Rhombus of Stars.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Rhombus of Stars\bin\Debug\netcoreapp2.1\Rhombus of Stars.dll
+D:\Projects\Nested Loops\Rhombus of Stars\bin\Debug\netcoreapp2.1\Rhombus of Stars.pdb
+D:\Projects\Nested Loops\Rhombus of Stars\obj\Debug\netcoreapp2.1\Rhombus of Stars.csprojAssemblyReference.cache
+D:\Projects\Nested Loops\Rhombus of Stars\obj\Debug\netcoreapp2.1\Rhombus of Stars.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Rhombus of Stars\obj\Debug\netcoreapp2.1\Rhombus of Stars.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Rhombus of Stars\obj\Debug\netcoreapp2.1\Rhombus of Stars.AssemblyInfo.cs
+D:\Projects\Nested Loops\Rhombus of Stars\obj\Debug\netcoreapp2.1\Rhombus of Stars.dll
+D:\Projects\Nested Loops\Rhombus of Stars\obj\Debug\netcoreapp2.1\Rhombus of Stars.pdb

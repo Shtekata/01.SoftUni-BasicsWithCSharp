@@ -1,0 +1,11 @@
+D:\Projects\Simple-Conditions\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.deps.json
+D:\Projects\Simple-Conditions\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.runtimeconfig.json
+D:\Projects\Simple-Conditions\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.dll
+D:\Projects\Simple-Conditions\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.pdb
+D:\Projects\Simple-Conditions\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.csprojAssemblyReference.cache
+D:\Projects\Simple-Conditions\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.dll
+D:\Projects\Simple-Conditions\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.pdb

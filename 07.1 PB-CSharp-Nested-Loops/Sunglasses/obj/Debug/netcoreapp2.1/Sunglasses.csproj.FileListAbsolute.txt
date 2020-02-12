@@ -1,0 +1,10 @@
+D:\Projects\Nested Loops\Sunglasses\bin\Debug\netcoreapp2.1\Sunglasses.deps.json
+D:\Projects\Nested Loops\Sunglasses\bin\Debug\netcoreapp2.1\Sunglasses.runtimeconfig.json
+D:\Projects\Nested Loops\Sunglasses\bin\Debug\netcoreapp2.1\Sunglasses.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Sunglasses\bin\Debug\netcoreapp2.1\Sunglasses.dll
+D:\Projects\Nested Loops\Sunglasses\bin\Debug\netcoreapp2.1\Sunglasses.pdb
+D:\Projects\Nested Loops\Sunglasses\obj\Debug\netcoreapp2.1\Sunglasses.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Sunglasses\obj\Debug\netcoreapp2.1\Sunglasses.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Sunglasses\obj\Debug\netcoreapp2.1\Sunglasses.AssemblyInfo.cs
+D:\Projects\Nested Loops\Sunglasses\obj\Debug\netcoreapp2.1\Sunglasses.dll
+D:\Projects\Nested Loops\Sunglasses\obj\Debug\netcoreapp2.1\Sunglasses.pdb

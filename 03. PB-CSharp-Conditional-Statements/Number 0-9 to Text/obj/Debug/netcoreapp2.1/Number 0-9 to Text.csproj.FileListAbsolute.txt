@@ -1,0 +1,10 @@
+D:\Projects\Conditional Statements\Number 0-9 to Text\bin\Debug\netcoreapp2.1\Number 0-9 to Text.deps.json
+D:\Projects\Conditional Statements\Number 0-9 to Text\bin\Debug\netcoreapp2.1\Number 0-9 to Text.runtimeconfig.json
+D:\Projects\Conditional Statements\Number 0-9 to Text\bin\Debug\netcoreapp2.1\Number 0-9 to Text.runtimeconfig.dev.json
+D:\Projects\Conditional Statements\Number 0-9 to Text\bin\Debug\netcoreapp2.1\Number 0-9 to Text.dll
+D:\Projects\Conditional Statements\Number 0-9 to Text\bin\Debug\netcoreapp2.1\Number 0-9 to Text.pdb
+D:\Projects\Conditional Statements\Number 0-9 to Text\obj\Debug\netcoreapp2.1\Number 0-9 to Text.csproj.CoreCompileInputs.cache
+D:\Projects\Conditional Statements\Number 0-9 to Text\obj\Debug\netcoreapp2.1\Number 0-9 to Text.AssemblyInfoInputs.cache
+D:\Projects\Conditional Statements\Number 0-9 to Text\obj\Debug\netcoreapp2.1\Number 0-9 to Text.AssemblyInfo.cs
+D:\Projects\Conditional Statements\Number 0-9 to Text\obj\Debug\netcoreapp2.1\Number 0-9 to Text.dll
+D:\Projects\Conditional Statements\Number 0-9 to Text\obj\Debug\netcoreapp2.1\Number 0-9 to Text.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Nested Loops\Nested Loops\bin\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.deps.json
+D:\Projects\Nested Loops\Nested Loops\bin\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.runtimeconfig.json
+D:\Projects\Nested Loops\Nested Loops\bin\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Nested Loops\bin\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.dll
+D:\Projects\Nested Loops\Nested Loops\bin\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.pdb
+D:\Projects\Nested Loops\Nested Loops\obj\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Nested Loops\obj\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Nested Loops\obj\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.AssemblyInfo.cs
+D:\Projects\Nested Loops\Nested Loops\obj\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.dll
+D:\Projects\Nested Loops\Nested Loops\obj\Debug\netcoreapp2.1\Rectangle of 10 x 10 Stars.pdb

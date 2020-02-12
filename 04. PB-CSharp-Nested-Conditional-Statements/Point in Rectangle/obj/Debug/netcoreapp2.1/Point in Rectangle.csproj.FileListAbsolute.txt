@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.deps.json
+D:\Projects\Nested Conditional Statements\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.dll
+D:\Projects\Nested Conditional Statements\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.pdb
+D:\Projects\Nested Conditional Statements\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.dll
+D:\Projects\Nested Conditional Statements\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.pdb

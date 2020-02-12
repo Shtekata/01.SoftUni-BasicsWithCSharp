@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Summer Outfit\bin\Debug\netcoreapp2.1\Summer Outfit.deps.json
+D:\Projects\Nested Conditional Statements\Summer Outfit\bin\Debug\netcoreapp2.1\Summer Outfit.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Summer Outfit\bin\Debug\netcoreapp2.1\Summer Outfit.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Summer Outfit\bin\Debug\netcoreapp2.1\Summer Outfit.dll
+D:\Projects\Nested Conditional Statements\Summer Outfit\bin\Debug\netcoreapp2.1\Summer Outfit.pdb
+D:\Projects\Nested Conditional Statements\Summer Outfit\obj\Debug\netcoreapp2.1\Summer Outfit.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Summer Outfit\obj\Debug\netcoreapp2.1\Summer Outfit.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Summer Outfit\obj\Debug\netcoreapp2.1\Summer Outfit.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Summer Outfit\obj\Debug\netcoreapp2.1\Summer Outfit.dll
+D:\Projects\Nested Conditional Statements\Summer Outfit\obj\Debug\netcoreapp2.1\Summer Outfit.pdb

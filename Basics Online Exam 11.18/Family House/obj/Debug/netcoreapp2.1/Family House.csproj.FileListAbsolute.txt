@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Family House\bin\Debug\netcoreapp2.1\Family House.deps.json
+D:\Projects\Basics Online Exam\Family House\bin\Debug\netcoreapp2.1\Family House.runtimeconfig.json
+D:\Projects\Basics Online Exam\Family House\bin\Debug\netcoreapp2.1\Family House.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Family House\bin\Debug\netcoreapp2.1\Family House.dll
+D:\Projects\Basics Online Exam\Family House\bin\Debug\netcoreapp2.1\Family House.pdb
+D:\Projects\Basics Online Exam\Family House\obj\Debug\netcoreapp2.1\Family House.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Family House\obj\Debug\netcoreapp2.1\Family House.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Family House\obj\Debug\netcoreapp2.1\Family House.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Family House\obj\Debug\netcoreapp2.1\Family House.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Family House\obj\Debug\netcoreapp2.1\Family House.dll
+D:\Projects\Basics Online Exam\Family House\obj\Debug\netcoreapp2.1\Family House.pdb

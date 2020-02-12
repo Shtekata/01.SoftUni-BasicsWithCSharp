@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.deps.json
+D:\Projects\Nested Conditional Statements\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.dll
+D:\Projects\Nested Conditional Statements\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.pdb
+D:\Projects\Nested Conditional Statements\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.dll
+D:\Projects\Nested Conditional Statements\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.pdb

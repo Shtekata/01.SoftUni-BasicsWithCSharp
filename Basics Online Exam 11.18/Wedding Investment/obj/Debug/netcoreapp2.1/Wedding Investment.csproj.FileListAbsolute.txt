@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Wedding Investment\bin\Debug\netcoreapp2.1\Wedding Investment.deps.json
+D:\Projects\Basics Online Exam\Wedding Investment\bin\Debug\netcoreapp2.1\Wedding Investment.runtimeconfig.json
+D:\Projects\Basics Online Exam\Wedding Investment\bin\Debug\netcoreapp2.1\Wedding Investment.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Wedding Investment\bin\Debug\netcoreapp2.1\Wedding Investment.dll
+D:\Projects\Basics Online Exam\Wedding Investment\bin\Debug\netcoreapp2.1\Wedding Investment.pdb
+D:\Projects\Basics Online Exam\Wedding Investment\obj\Debug\netcoreapp2.1\Wedding Investment.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Wedding Investment\obj\Debug\netcoreapp2.1\Wedding Investment.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Wedding Investment\obj\Debug\netcoreapp2.1\Wedding Investment.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Wedding Investment\obj\Debug\netcoreapp2.1\Wedding Investment.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Wedding Investment\obj\Debug\netcoreapp2.1\Wedding Investment.dll
+D:\Projects\Basics Online Exam\Wedding Investment\obj\Debug\netcoreapp2.1\Wedding Investment.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.deps.json
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.dll
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.pdb
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.dll
+D:\Projects\Basics Online Exam 07.18\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.pdb

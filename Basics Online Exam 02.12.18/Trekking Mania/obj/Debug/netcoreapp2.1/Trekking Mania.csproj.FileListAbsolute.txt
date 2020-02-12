@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\bin\Debug\netcoreapp2.1\Trekking Mania.deps.json
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\bin\Debug\netcoreapp2.1\Trekking Mania.runtimeconfig.json
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\bin\Debug\netcoreapp2.1\Trekking Mania.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\bin\Debug\netcoreapp2.1\Trekking Mania.dll
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\bin\Debug\netcoreapp2.1\Trekking Mania.pdb
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\obj\Debug\netcoreapp2.1\Trekking Mania.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\obj\Debug\netcoreapp2.1\Trekking Mania.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\obj\Debug\netcoreapp2.1\Trekking Mania.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\obj\Debug\netcoreapp2.1\Trekking Mania.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\obj\Debug\netcoreapp2.1\Trekking Mania.dll
+D:\Projects\Basics Online Exam 02.12.18\Trekking Mania\obj\Debug\netcoreapp2.1\Trekking Mania.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Fishing\bin\Debug\netcoreapp2.1\Fishing.deps.json
+D:\Projects\Nested Loops\Fishing\bin\Debug\netcoreapp2.1\Fishing.runtimeconfig.json
+D:\Projects\Nested Loops\Fishing\bin\Debug\netcoreapp2.1\Fishing.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Fishing\bin\Debug\netcoreapp2.1\Fishing.dll
+D:\Projects\Nested Loops\Fishing\bin\Debug\netcoreapp2.1\Fishing.pdb
+D:\Projects\Nested Loops\Fishing\obj\Debug\netcoreapp2.1\Fishing.csprojAssemblyReference.cache
+D:\Projects\Nested Loops\Fishing\obj\Debug\netcoreapp2.1\Fishing.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Fishing\obj\Debug\netcoreapp2.1\Fishing.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Fishing\obj\Debug\netcoreapp2.1\Fishing.AssemblyInfo.cs
+D:\Projects\Nested Loops\Fishing\obj\Debug\netcoreapp2.1\Fishing.dll
+D:\Projects\Nested Loops\Fishing\obj\Debug\netcoreapp2.1\Fishing.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\On Time for the Exam\bin\Debug\netcoreapp2.1\On Time for the Exam.deps.json
+D:\Projects\Nested Conditional Statements\On Time for the Exam\bin\Debug\netcoreapp2.1\On Time for the Exam.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\On Time for the Exam\bin\Debug\netcoreapp2.1\On Time for the Exam.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\On Time for the Exam\bin\Debug\netcoreapp2.1\On Time for the Exam.dll
+D:\Projects\Nested Conditional Statements\On Time for the Exam\bin\Debug\netcoreapp2.1\On Time for the Exam.pdb
+D:\Projects\Nested Conditional Statements\On Time for the Exam\obj\Debug\netcoreapp2.1\On Time for the Exam.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\On Time for the Exam\obj\Debug\netcoreapp2.1\On Time for the Exam.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\On Time for the Exam\obj\Debug\netcoreapp2.1\On Time for the Exam.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\On Time for the Exam\obj\Debug\netcoreapp2.1\On Time for the Exam.dll
+D:\Projects\Nested Conditional Statements\On Time for the Exam\obj\Debug\netcoreapp2.1\On Time for the Exam.pdb

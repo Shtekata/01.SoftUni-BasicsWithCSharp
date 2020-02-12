@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Journey\bin\Debug\netcoreapp2.1\Journey.deps.json
+D:\Projects\Nested Conditional Statements\Journey\bin\Debug\netcoreapp2.1\Journey.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Journey\bin\Debug\netcoreapp2.1\Journey.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Journey\bin\Debug\netcoreapp2.1\Journey.dll
+D:\Projects\Nested Conditional Statements\Journey\bin\Debug\netcoreapp2.1\Journey.pdb
+D:\Projects\Nested Conditional Statements\Journey\obj\Debug\netcoreapp2.1\Journey.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Journey\obj\Debug\netcoreapp2.1\Journey.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Journey\obj\Debug\netcoreapp2.1\Journey.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Journey\obj\Debug\netcoreapp2.1\Journey.dll
+D:\Projects\Nested Conditional Statements\Journey\obj\Debug\netcoreapp2.1\Journey.pdb

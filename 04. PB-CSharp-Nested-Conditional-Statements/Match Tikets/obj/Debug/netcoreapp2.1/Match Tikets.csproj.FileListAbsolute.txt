@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Match Tikets\bin\Debug\netcoreapp2.1\Match Tikets.deps.json
+D:\Projects\Nested Conditional Statements\Match Tikets\bin\Debug\netcoreapp2.1\Match Tikets.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Match Tikets\bin\Debug\netcoreapp2.1\Match Tikets.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Match Tikets\bin\Debug\netcoreapp2.1\Match Tikets.dll
+D:\Projects\Nested Conditional Statements\Match Tikets\bin\Debug\netcoreapp2.1\Match Tikets.pdb
+D:\Projects\Nested Conditional Statements\Match Tikets\obj\Debug\netcoreapp2.1\Match Tikets.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Match Tikets\obj\Debug\netcoreapp2.1\Match Tikets.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Match Tikets\obj\Debug\netcoreapp2.1\Match Tikets.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Match Tikets\obj\Debug\netcoreapp2.1\Match Tikets.dll
+D:\Projects\Nested Conditional Statements\Match Tikets\obj\Debug\netcoreapp2.1\Match Tikets.pdb

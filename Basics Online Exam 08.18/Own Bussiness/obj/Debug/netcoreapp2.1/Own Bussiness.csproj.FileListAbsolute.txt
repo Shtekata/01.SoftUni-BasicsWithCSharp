@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\bin\Debug\netcoreapp2.1\Own Bussiness.deps.json
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\bin\Debug\netcoreapp2.1\Own Bussiness.runtimeconfig.json
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\bin\Debug\netcoreapp2.1\Own Bussiness.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\bin\Debug\netcoreapp2.1\Own Bussiness.dll
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\bin\Debug\netcoreapp2.1\Own Bussiness.pdb
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\obj\Debug\netcoreapp2.1\Own Bussiness.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\obj\Debug\netcoreapp2.1\Own Bussiness.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\obj\Debug\netcoreapp2.1\Own Bussiness.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\obj\Debug\netcoreapp2.1\Own Bussiness.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\obj\Debug\netcoreapp2.1\Own Bussiness.dll
+D:\Projects\Basics Online Exam 08.18\Own Bussiness\obj\Debug\netcoreapp2.1\Own Bussiness.pdb

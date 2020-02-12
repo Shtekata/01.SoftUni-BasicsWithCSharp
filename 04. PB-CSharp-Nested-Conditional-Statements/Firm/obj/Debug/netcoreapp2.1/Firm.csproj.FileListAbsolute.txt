@@ -1,0 +1,11 @@
+D:\Projects\Nested Conditional Statements\Firm\bin\Debug\netcoreapp2.1\Firm.deps.json
+D:\Projects\Nested Conditional Statements\Firm\bin\Debug\netcoreapp2.1\Firm.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Firm\bin\Debug\netcoreapp2.1\Firm.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Firm\bin\Debug\netcoreapp2.1\Firm.dll
+D:\Projects\Nested Conditional Statements\Firm\bin\Debug\netcoreapp2.1\Firm.pdb
+D:\Projects\Nested Conditional Statements\Firm\obj\Debug\netcoreapp2.1\Firm.csprojAssemblyReference.cache
+D:\Projects\Nested Conditional Statements\Firm\obj\Debug\netcoreapp2.1\Firm.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Firm\obj\Debug\netcoreapp2.1\Firm.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Firm\obj\Debug\netcoreapp2.1\Firm.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Firm\obj\Debug\netcoreapp2.1\Firm.dll
+D:\Projects\Nested Conditional Statements\Firm\obj\Debug\netcoreapp2.1\Firm.pdb

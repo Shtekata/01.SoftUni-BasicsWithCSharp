@@ -1,0 +1,11 @@
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\bin\Debug\netcoreapp2.1\Number in Range [1-100].deps.json
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\bin\Debug\netcoreapp2.1\Number in Range [1-100].runtimeconfig.json
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\bin\Debug\netcoreapp2.1\Number in Range [1-100].runtimeconfig.dev.json
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\bin\Debug\netcoreapp2.1\Number in Range [1-100].dll
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\bin\Debug\netcoreapp2.1\Number in Range [1-100].pdb
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\obj\Debug\netcoreapp2.1\Number in Range [1-100].csprojAssemblyReference.cache
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\obj\Debug\netcoreapp2.1\Number in Range [1-100].csproj.CoreCompileInputs.cache
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\obj\Debug\netcoreapp2.1\Number in Range [1-100].AssemblyInfoInputs.cache
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\obj\Debug\netcoreapp2.1\Number in Range [1-100].AssemblyInfo.cs
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\obj\Debug\netcoreapp2.1\Number in Range [1-100].dll
+C:\Users\geshe\source\repos\While Loop\Number in Range [1-100]\obj\Debug\netcoreapp2.1\Number in Range [1-100].pdb

@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 08.18\Computer Firm\bin\Debug\netcoreapp2.1\Computer Firm.deps.json
+D:\Projects\Basics Online Exam 08.18\Computer Firm\bin\Debug\netcoreapp2.1\Computer Firm.runtimeconfig.json
+D:\Projects\Basics Online Exam 08.18\Computer Firm\bin\Debug\netcoreapp2.1\Computer Firm.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 08.18\Computer Firm\bin\Debug\netcoreapp2.1\Computer Firm.dll
+D:\Projects\Basics Online Exam 08.18\Computer Firm\bin\Debug\netcoreapp2.1\Computer Firm.pdb
+D:\Projects\Basics Online Exam 08.18\Computer Firm\obj\Debug\netcoreapp2.1\Computer Firm.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 08.18\Computer Firm\obj\Debug\netcoreapp2.1\Computer Firm.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 08.18\Computer Firm\obj\Debug\netcoreapp2.1\Computer Firm.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 08.18\Computer Firm\obj\Debug\netcoreapp2.1\Computer Firm.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 08.18\Computer Firm\obj\Debug\netcoreapp2.1\Computer Firm.dll
+D:\Projects\Basics Online Exam 08.18\Computer Firm\obj\Debug\netcoreapp2.1\Computer Firm.pdb

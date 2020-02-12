@@ -1,0 +1,10 @@
+D:\Projects\Simple Calculations\1000 Days After Birth\bin\Debug\netcoreapp2.1\1000 Days After Birth.deps.json
+D:\Projects\Simple Calculations\1000 Days After Birth\bin\Debug\netcoreapp2.1\1000 Days After Birth.runtimeconfig.json
+D:\Projects\Simple Calculations\1000 Days After Birth\bin\Debug\netcoreapp2.1\1000 Days After Birth.runtimeconfig.dev.json
+D:\Projects\Simple Calculations\1000 Days After Birth\bin\Debug\netcoreapp2.1\1000 Days After Birth.dll
+D:\Projects\Simple Calculations\1000 Days After Birth\bin\Debug\netcoreapp2.1\1000 Days After Birth.pdb
+D:\Projects\Simple Calculations\1000 Days After Birth\obj\Debug\netcoreapp2.1\1000 Days After Birth.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Calculations\1000 Days After Birth\obj\Debug\netcoreapp2.1\1000 Days After Birth.AssemblyInfoInputs.cache
+D:\Projects\Simple Calculations\1000 Days After Birth\obj\Debug\netcoreapp2.1\1000 Days After Birth.AssemblyInfo.cs
+D:\Projects\Simple Calculations\1000 Days After Birth\obj\Debug\netcoreapp2.1\1000 Days After Birth.dll
+D:\Projects\Simple Calculations\1000 Days After Birth\obj\Debug\netcoreapp2.1\1000 Days After Birth.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp2.1\Rectangle of N x N Stars.deps.json
+D:\Projects\Nested Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp2.1\Rectangle of N x N Stars.runtimeconfig.json
+D:\Projects\Nested Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp2.1\Rectangle of N x N Stars.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp2.1\Rectangle of N x N Stars.dll
+D:\Projects\Nested Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp2.1\Rectangle of N x N Stars.pdb
+D:\Projects\Nested Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp2.1\Rectangle of N x N Stars.csprojAssemblyReference.cache
+D:\Projects\Nested Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp2.1\Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp2.1\Rectangle of N x N Stars.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp2.1\Rectangle of N x N Stars.AssemblyInfo.cs
+D:\Projects\Nested Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp2.1\Rectangle of N x N Stars.dll
+D:\Projects\Nested Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp2.1\Rectangle of N x N Stars.pdb

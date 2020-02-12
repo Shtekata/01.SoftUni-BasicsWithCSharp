@@ -1,0 +1,11 @@
+D:\Projects\Nested Conditional Statements\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Projects\Nested Conditional Statements\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Projects\Nested Conditional Statements\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Projects\Nested Conditional Statements\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\Projects\Nested Conditional Statements\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Projects\Nested Conditional Statements\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

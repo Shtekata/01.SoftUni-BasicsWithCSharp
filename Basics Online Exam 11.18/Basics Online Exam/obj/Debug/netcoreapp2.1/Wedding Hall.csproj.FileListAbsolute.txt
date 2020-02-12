@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Basics Online Exam\bin\Debug\netcoreapp2.1\Wedding Hall.deps.json
+D:\Projects\Basics Online Exam\Basics Online Exam\bin\Debug\netcoreapp2.1\Wedding Hall.runtimeconfig.json
+D:\Projects\Basics Online Exam\Basics Online Exam\bin\Debug\netcoreapp2.1\Wedding Hall.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Basics Online Exam\bin\Debug\netcoreapp2.1\Wedding Hall.dll
+D:\Projects\Basics Online Exam\Basics Online Exam\bin\Debug\netcoreapp2.1\Wedding Hall.pdb
+D:\Projects\Basics Online Exam\Basics Online Exam\obj\Debug\netcoreapp2.1\Wedding Hall.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Basics Online Exam\obj\Debug\netcoreapp2.1\Wedding Hall.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Basics Online Exam\obj\Debug\netcoreapp2.1\Wedding Hall.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Basics Online Exam\obj\Debug\netcoreapp2.1\Wedding Hall.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Basics Online Exam\obj\Debug\netcoreapp2.1\Wedding Hall.dll
+D:\Projects\Basics Online Exam\Basics Online Exam\obj\Debug\netcoreapp2.1\Wedding Hall.pdb

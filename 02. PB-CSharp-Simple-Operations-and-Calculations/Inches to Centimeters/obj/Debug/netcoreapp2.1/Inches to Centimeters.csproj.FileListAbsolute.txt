@@ -1,0 +1,11 @@
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.deps.json
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.runtimeconfig.json
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.dll
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.pdb
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.AssemblyInfo.cs
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.dll
+C:\Users\geshe\source\repos\Square Area\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.pdb

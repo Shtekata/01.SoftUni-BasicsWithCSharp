@@ -1,0 +1,11 @@
+D:\Projects\For Loops\Odd Even Sum\bin\Debug\netcoreapp2.1\Odd Even Sum.deps.json
+D:\Projects\For Loops\Odd Even Sum\bin\Debug\netcoreapp2.1\Odd Even Sum.runtimeconfig.json
+D:\Projects\For Loops\Odd Even Sum\bin\Debug\netcoreapp2.1\Odd Even Sum.runtimeconfig.dev.json
+D:\Projects\For Loops\Odd Even Sum\bin\Debug\netcoreapp2.1\Odd Even Sum.dll
+D:\Projects\For Loops\Odd Even Sum\bin\Debug\netcoreapp2.1\Odd Even Sum.pdb
+D:\Projects\For Loops\Odd Even Sum\obj\Debug\netcoreapp2.1\Odd Even Sum.csprojAssemblyReference.cache
+D:\Projects\For Loops\Odd Even Sum\obj\Debug\netcoreapp2.1\Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\Projects\For Loops\Odd Even Sum\obj\Debug\netcoreapp2.1\Odd Even Sum.AssemblyInfoInputs.cache
+D:\Projects\For Loops\Odd Even Sum\obj\Debug\netcoreapp2.1\Odd Even Sum.AssemblyInfo.cs
+D:\Projects\For Loops\Odd Even Sum\obj\Debug\netcoreapp2.1\Odd Even Sum.dll
+D:\Projects\For Loops\Odd Even Sum\obj\Debug\netcoreapp2.1\Odd Even Sum.pdb

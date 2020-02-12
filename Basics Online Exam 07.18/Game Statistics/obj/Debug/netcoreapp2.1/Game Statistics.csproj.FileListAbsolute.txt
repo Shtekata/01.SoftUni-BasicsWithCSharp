@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Game Statistics\bin\Debug\netcoreapp2.1\Game Statistics.deps.json
+D:\Projects\Basics Online Exam 07.18\Game Statistics\bin\Debug\netcoreapp2.1\Game Statistics.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Game Statistics\bin\Debug\netcoreapp2.1\Game Statistics.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Game Statistics\bin\Debug\netcoreapp2.1\Game Statistics.dll
+D:\Projects\Basics Online Exam 07.18\Game Statistics\bin\Debug\netcoreapp2.1\Game Statistics.pdb
+D:\Projects\Basics Online Exam 07.18\Game Statistics\obj\Debug\netcoreapp2.1\Game Statistics.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Game Statistics\obj\Debug\netcoreapp2.1\Game Statistics.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Game Statistics\obj\Debug\netcoreapp2.1\Game Statistics.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Game Statistics\obj\Debug\netcoreapp2.1\Game Statistics.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Game Statistics\obj\Debug\netcoreapp2.1\Game Statistics.dll
+D:\Projects\Basics Online Exam 07.18\Game Statistics\obj\Debug\netcoreapp2.1\Game Statistics.pdb

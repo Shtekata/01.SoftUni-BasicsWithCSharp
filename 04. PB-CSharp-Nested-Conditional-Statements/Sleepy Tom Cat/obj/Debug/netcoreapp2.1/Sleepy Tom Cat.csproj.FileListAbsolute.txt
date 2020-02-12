@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\bin\Debug\netcoreapp2.1\Sleepy Tom Cat.deps.json
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\bin\Debug\netcoreapp2.1\Sleepy Tom Cat.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\bin\Debug\netcoreapp2.1\Sleepy Tom Cat.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\bin\Debug\netcoreapp2.1\Sleepy Tom Cat.dll
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\bin\Debug\netcoreapp2.1\Sleepy Tom Cat.pdb
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\obj\Debug\netcoreapp2.1\Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\obj\Debug\netcoreapp2.1\Sleepy Tom Cat.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\obj\Debug\netcoreapp2.1\Sleepy Tom Cat.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\obj\Debug\netcoreapp2.1\Sleepy Tom Cat.dll
+D:\Projects\Nested Conditional Statements\Sleepy Tom Cat\obj\Debug\netcoreapp2.1\Sleepy Tom Cat.pdb

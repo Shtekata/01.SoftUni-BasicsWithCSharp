@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Football Kit\obj\Debug\netcoreapp2.1\Football Kit.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Football Kit\obj\Debug\netcoreapp2.1\Football Kit.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Football Kit\obj\Debug\netcoreapp2.1\Football Kit.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Football Kit\obj\Debug\netcoreapp2.1\Football Kit.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Football Kit\bin\Debug\netcoreapp2.1\Football Kit.deps.json
+D:\Projects\Basics Online Exam 07.18\Football Kit\bin\Debug\netcoreapp2.1\Football Kit.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Football Kit\bin\Debug\netcoreapp2.1\Football Kit.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Football Kit\bin\Debug\netcoreapp2.1\Football Kit.dll
+D:\Projects\Basics Online Exam 07.18\Football Kit\bin\Debug\netcoreapp2.1\Football Kit.pdb
+D:\Projects\Basics Online Exam 07.18\Football Kit\obj\Debug\netcoreapp2.1\Football Kit.dll
+D:\Projects\Basics Online Exam 07.18\Football Kit\obj\Debug\netcoreapp2.1\Football Kit.pdb

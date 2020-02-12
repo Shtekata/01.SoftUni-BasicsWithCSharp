@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\bin\Debug\netcoreapp2.1\Mountain Run.deps.json
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\bin\Debug\netcoreapp2.1\Mountain Run.runtimeconfig.json
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\bin\Debug\netcoreapp2.1\Mountain Run.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\bin\Debug\netcoreapp2.1\Mountain Run.dll
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\bin\Debug\netcoreapp2.1\Mountain Run.pdb
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\obj\Debug\netcoreapp2.1\Mountain Run.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\obj\Debug\netcoreapp2.1\Mountain Run.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\obj\Debug\netcoreapp2.1\Mountain Run.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\obj\Debug\netcoreapp2.1\Mountain Run.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\obj\Debug\netcoreapp2.1\Mountain Run.dll
+D:\Projects\Basics Online Exam 02.12.18\Mountain Run\obj\Debug\netcoreapp2.1\Mountain Run.pdb

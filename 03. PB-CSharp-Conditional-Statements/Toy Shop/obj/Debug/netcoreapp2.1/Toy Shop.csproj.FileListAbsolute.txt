@@ -1,0 +1,11 @@
+D:\Projects\Simple-Conditions\Toy Shop\bin\Debug\netcoreapp2.1\Toy Shop.deps.json
+D:\Projects\Simple-Conditions\Toy Shop\bin\Debug\netcoreapp2.1\Toy Shop.runtimeconfig.json
+D:\Projects\Simple-Conditions\Toy Shop\bin\Debug\netcoreapp2.1\Toy Shop.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Toy Shop\bin\Debug\netcoreapp2.1\Toy Shop.dll
+D:\Projects\Simple-Conditions\Toy Shop\bin\Debug\netcoreapp2.1\Toy Shop.pdb
+D:\Projects\Simple-Conditions\Toy Shop\obj\Debug\netcoreapp2.1\Toy Shop.csprojAssemblyReference.cache
+D:\Projects\Simple-Conditions\Toy Shop\obj\Debug\netcoreapp2.1\Toy Shop.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Toy Shop\obj\Debug\netcoreapp2.1\Toy Shop.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Toy Shop\obj\Debug\netcoreapp2.1\Toy Shop.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Toy Shop\obj\Debug\netcoreapp2.1\Toy Shop.dll
+D:\Projects\Simple-Conditions\Toy Shop\obj\Debug\netcoreapp2.1\Toy Shop.pdb

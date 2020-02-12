@@ -1,0 +1,22 @@
+D:\Projects\Conditional Statements\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.deps.json
+D:\Projects\Conditional Statements\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.runtimeconfig.json
+D:\Projects\Conditional Statements\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.runtimeconfig.dev.json
+D:\Projects\Conditional Statements\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.dll
+D:\Projects\Conditional Statements\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.pdb
+D:\Projects\Conditional Statements\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.csprojAssemblyReference.cache
+D:\Projects\Conditional Statements\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.csproj.CoreCompileInputs.cache
+D:\Projects\Conditional Statements\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.AssemblyInfoInputs.cache
+D:\Projects\Conditional Statements\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.AssemblyInfo.cs
+D:\Projects\Conditional Statements\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.dll
+D:\Projects\Conditional Statements\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.pdb
+D:\Projects\Simple-Conditions\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.deps.json
+D:\Projects\Simple-Conditions\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.runtimeconfig.json
+D:\Projects\Simple-Conditions\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.dll
+D:\Projects\Simple-Conditions\Conditional Statements\bin\Debug\netcoreapp2.1\Conditional Statements.pdb
+D:\Projects\Simple-Conditions\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.csprojAssemblyReference.cache
+D:\Projects\Simple-Conditions\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.dll
+D:\Projects\Simple-Conditions\Conditional Statements\obj\Debug\netcoreapp2.1\Conditional Statements.pdb

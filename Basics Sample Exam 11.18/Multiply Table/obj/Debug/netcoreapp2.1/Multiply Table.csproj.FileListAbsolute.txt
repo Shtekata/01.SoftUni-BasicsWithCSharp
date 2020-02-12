@@ -1,0 +1,11 @@
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\bin\Debug\netcoreapp2.1\Multiply Table.deps.json
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\bin\Debug\netcoreapp2.1\Multiply Table.runtimeconfig.json
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\bin\Debug\netcoreapp2.1\Multiply Table.runtimeconfig.dev.json
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\bin\Debug\netcoreapp2.1\Multiply Table.dll
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\bin\Debug\netcoreapp2.1\Multiply Table.pdb
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\obj\Debug\netcoreapp2.1\Multiply Table.csprojAssemblyReference.cache
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\obj\Debug\netcoreapp2.1\Multiply Table.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\obj\Debug\netcoreapp2.1\Multiply Table.AssemblyInfoInputs.cache
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\obj\Debug\netcoreapp2.1\Multiply Table.AssemblyInfo.cs
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\obj\Debug\netcoreapp2.1\Multiply Table.dll
+D:\Projects\Basics Sample Exam 11.18\Multiply Table\obj\Debug\netcoreapp2.1\Multiply Table.pdb

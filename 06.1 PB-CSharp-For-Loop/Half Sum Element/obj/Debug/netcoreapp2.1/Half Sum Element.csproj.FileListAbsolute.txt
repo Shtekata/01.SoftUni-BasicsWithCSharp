@@ -1,0 +1,11 @@
+D:\Projects\For Loops\Half Sum Element\obj\Debug\netcoreapp2.1\Half Sum Element.csprojAssemblyReference.cache
+D:\Projects\For Loops\Half Sum Element\obj\Debug\netcoreapp2.1\Half Sum Element.csproj.CoreCompileInputs.cache
+D:\Projects\For Loops\Half Sum Element\obj\Debug\netcoreapp2.1\Half Sum Element.AssemblyInfoInputs.cache
+D:\Projects\For Loops\Half Sum Element\obj\Debug\netcoreapp2.1\Half Sum Element.AssemblyInfo.cs
+D:\Projects\For Loops\Half Sum Element\bin\Debug\netcoreapp2.1\Half Sum Element.deps.json
+D:\Projects\For Loops\Half Sum Element\bin\Debug\netcoreapp2.1\Half Sum Element.runtimeconfig.json
+D:\Projects\For Loops\Half Sum Element\bin\Debug\netcoreapp2.1\Half Sum Element.runtimeconfig.dev.json
+D:\Projects\For Loops\Half Sum Element\bin\Debug\netcoreapp2.1\Half Sum Element.dll
+D:\Projects\For Loops\Half Sum Element\bin\Debug\netcoreapp2.1\Half Sum Element.pdb
+D:\Projects\For Loops\Half Sum Element\obj\Debug\netcoreapp2.1\Half Sum Element.dll
+D:\Projects\For Loops\Half Sum Element\obj\Debug\netcoreapp2.1\Half Sum Element.pdb

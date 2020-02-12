@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\House\bin\Debug\netcoreapp2.1\House.deps.json
+D:\Projects\Nested Loops\House\bin\Debug\netcoreapp2.1\House.runtimeconfig.json
+D:\Projects\Nested Loops\House\bin\Debug\netcoreapp2.1\House.runtimeconfig.dev.json
+D:\Projects\Nested Loops\House\bin\Debug\netcoreapp2.1\House.dll
+D:\Projects\Nested Loops\House\bin\Debug\netcoreapp2.1\House.pdb
+D:\Projects\Nested Loops\House\obj\Debug\netcoreapp2.1\House.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\House\obj\Debug\netcoreapp2.1\House.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\House\obj\Debug\netcoreapp2.1\House.AssemblyInfo.cs
+D:\Projects\Nested Loops\House\obj\Debug\netcoreapp2.1\House.dll
+D:\Projects\Nested Loops\House\obj\Debug\netcoreapp2.1\House.pdb
+D:\Projects\Nested Loops\House\obj\Debug\netcoreapp2.1\House.csprojAssemblyReference.cache

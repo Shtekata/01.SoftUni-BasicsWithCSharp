@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.deps.json
+D:\Projects\Nested Loops\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.runtimeconfig.json
+D:\Projects\Nested Loops\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.dll
+D:\Projects\Nested Loops\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.pdb
+D:\Projects\Nested Loops\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.csprojAssemblyReference.cache
+D:\Projects\Nested Loops\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.AssemblyInfo.cs
+D:\Projects\Nested Loops\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.dll
+D:\Projects\Nested Loops\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.pdb

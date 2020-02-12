@@ -1,0 +1,11 @@
+D:\Projects\While Loop\Coins\bin\Debug\netcoreapp2.1\Coins.deps.json
+D:\Projects\While Loop\Coins\bin\Debug\netcoreapp2.1\Coins.runtimeconfig.json
+D:\Projects\While Loop\Coins\bin\Debug\netcoreapp2.1\Coins.runtimeconfig.dev.json
+D:\Projects\While Loop\Coins\bin\Debug\netcoreapp2.1\Coins.dll
+D:\Projects\While Loop\Coins\bin\Debug\netcoreapp2.1\Coins.pdb
+D:\Projects\While Loop\Coins\obj\Debug\netcoreapp2.1\Coins.csprojAssemblyReference.cache
+D:\Projects\While Loop\Coins\obj\Debug\netcoreapp2.1\Coins.csproj.CoreCompileInputs.cache
+D:\Projects\While Loop\Coins\obj\Debug\netcoreapp2.1\Coins.AssemblyInfoInputs.cache
+D:\Projects\While Loop\Coins\obj\Debug\netcoreapp2.1\Coins.AssemblyInfo.cs
+D:\Projects\While Loop\Coins\obj\Debug\netcoreapp2.1\Coins.dll
+D:\Projects\While Loop\Coins\obj\Debug\netcoreapp2.1\Coins.pdb

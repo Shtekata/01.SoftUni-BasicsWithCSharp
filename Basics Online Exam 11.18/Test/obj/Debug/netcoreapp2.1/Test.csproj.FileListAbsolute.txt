@@ -1,0 +1,10 @@
+D:\Projects\Basics Online Exam\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+D:\Projects\Basics Online Exam\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+D:\Projects\Basics Online Exam\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Test\bin\Debug\netcoreapp2.1\Test.dll
+D:\Projects\Basics Online Exam\Test\bin\Debug\netcoreapp2.1\Test.pdb
+D:\Projects\Basics Online Exam\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Test\obj\Debug\netcoreapp2.1\Test.dll
+D:\Projects\Basics Online Exam\Test\obj\Debug\netcoreapp2.1\Test.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Point in the Figure\bin\Debug\netcoreapp2.1\Point in the Figure.deps.json
+D:\Projects\Nested Conditional Statements\Point in the Figure\bin\Debug\netcoreapp2.1\Point in the Figure.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Point in the Figure\bin\Debug\netcoreapp2.1\Point in the Figure.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Point in the Figure\bin\Debug\netcoreapp2.1\Point in the Figure.dll
+D:\Projects\Nested Conditional Statements\Point in the Figure\bin\Debug\netcoreapp2.1\Point in the Figure.pdb
+D:\Projects\Nested Conditional Statements\Point in the Figure\obj\Debug\netcoreapp2.1\Point in the Figure.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Point in the Figure\obj\Debug\netcoreapp2.1\Point in the Figure.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Point in the Figure\obj\Debug\netcoreapp2.1\Point in the Figure.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Point in the Figure\obj\Debug\netcoreapp2.1\Point in the Figure.dll
+D:\Projects\Nested Conditional Statements\Point in the Figure\obj\Debug\netcoreapp2.1\Point in the Figure.pdb

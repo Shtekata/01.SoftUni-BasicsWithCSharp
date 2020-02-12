@@ -1,0 +1,10 @@
+D:\Projects\Simple Calculations\USD BGN convertor\bin\Debug\netcoreapp2.1\USD BGN convertor.deps.json
+D:\Projects\Simple Calculations\USD BGN convertor\bin\Debug\netcoreapp2.1\USD BGN convertor.runtimeconfig.json
+D:\Projects\Simple Calculations\USD BGN convertor\bin\Debug\netcoreapp2.1\USD BGN convertor.runtimeconfig.dev.json
+D:\Projects\Simple Calculations\USD BGN convertor\bin\Debug\netcoreapp2.1\USD BGN convertor.dll
+D:\Projects\Simple Calculations\USD BGN convertor\bin\Debug\netcoreapp2.1\USD BGN convertor.pdb
+D:\Projects\Simple Calculations\USD BGN convertor\obj\Debug\netcoreapp2.1\USD BGN convertor.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Calculations\USD BGN convertor\obj\Debug\netcoreapp2.1\USD BGN convertor.AssemblyInfoInputs.cache
+D:\Projects\Simple Calculations\USD BGN convertor\obj\Debug\netcoreapp2.1\USD BGN convertor.AssemblyInfo.cs
+D:\Projects\Simple Calculations\USD BGN convertor\obj\Debug\netcoreapp2.1\USD BGN convertor.dll
+D:\Projects\Simple Calculations\USD BGN convertor\obj\Debug\netcoreapp2.1\USD BGN convertor.pdb

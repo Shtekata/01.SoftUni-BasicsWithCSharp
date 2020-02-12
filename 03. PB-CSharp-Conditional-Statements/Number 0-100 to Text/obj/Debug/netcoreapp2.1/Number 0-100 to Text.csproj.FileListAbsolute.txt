@@ -1,0 +1,11 @@
+D:\Projects\Simple-Conditions\Number 0-100 to Text\bin\Debug\netcoreapp2.1\Number 0-100 to Text.deps.json
+D:\Projects\Simple-Conditions\Number 0-100 to Text\bin\Debug\netcoreapp2.1\Number 0-100 to Text.runtimeconfig.json
+D:\Projects\Simple-Conditions\Number 0-100 to Text\bin\Debug\netcoreapp2.1\Number 0-100 to Text.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Number 0-100 to Text\bin\Debug\netcoreapp2.1\Number 0-100 to Text.dll
+D:\Projects\Simple-Conditions\Number 0-100 to Text\bin\Debug\netcoreapp2.1\Number 0-100 to Text.pdb
+D:\Projects\Simple-Conditions\Number 0-100 to Text\obj\Debug\netcoreapp2.1\Number 0-100 to Text.csprojAssemblyReference.cache
+D:\Projects\Simple-Conditions\Number 0-100 to Text\obj\Debug\netcoreapp2.1\Number 0-100 to Text.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Number 0-100 to Text\obj\Debug\netcoreapp2.1\Number 0-100 to Text.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Number 0-100 to Text\obj\Debug\netcoreapp2.1\Number 0-100 to Text.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Number 0-100 to Text\obj\Debug\netcoreapp2.1\Number 0-100 to Text.dll
+D:\Projects\Simple-Conditions\Number 0-100 to Text\obj\Debug\netcoreapp2.1\Number 0-100 to Text.pdb

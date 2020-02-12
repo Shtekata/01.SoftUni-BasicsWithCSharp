@@ -1,0 +1,10 @@
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.deps.json
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.runtimeconfig.json
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.runtimeconfig.dev.json
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.dll
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.pdb
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.csproj.CoreCompileInputs.cache
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.AssemblyInfoInputs.cache
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.AssemblyInfo.cs
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.dll
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.pdb

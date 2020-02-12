@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.deps.json
+D:\Projects\Basics Online Exam\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.runtimeconfig.json
+D:\Projects\Basics Online Exam\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.dll
+D:\Projects\Basics Online Exam\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.pdb
+D:\Projects\Basics Online Exam\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.dll
+D:\Projects\Basics Online Exam\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.pdb

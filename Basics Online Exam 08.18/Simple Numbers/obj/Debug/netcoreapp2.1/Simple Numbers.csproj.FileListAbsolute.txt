@@ -1,0 +1,10 @@
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\bin\Debug\netcoreapp2.1\Simple Numbers.deps.json
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\bin\Debug\netcoreapp2.1\Simple Numbers.runtimeconfig.json
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\bin\Debug\netcoreapp2.1\Simple Numbers.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\bin\Debug\netcoreapp2.1\Simple Numbers.dll
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\bin\Debug\netcoreapp2.1\Simple Numbers.pdb
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\obj\Debug\netcoreapp2.1\Simple Numbers.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\obj\Debug\netcoreapp2.1\Simple Numbers.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\obj\Debug\netcoreapp2.1\Simple Numbers.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\obj\Debug\netcoreapp2.1\Simple Numbers.dll
+D:\Projects\Basics Online Exam 08.18\Simple Numbers\obj\Debug\netcoreapp2.1\Simple Numbers.pdb

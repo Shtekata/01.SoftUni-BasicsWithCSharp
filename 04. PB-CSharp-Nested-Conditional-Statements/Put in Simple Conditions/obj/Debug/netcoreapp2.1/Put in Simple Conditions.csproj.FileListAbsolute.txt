@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\bin\Debug\netcoreapp2.1\Put in Simple Conditions.deps.json
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\bin\Debug\netcoreapp2.1\Put in Simple Conditions.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\bin\Debug\netcoreapp2.1\Put in Simple Conditions.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\bin\Debug\netcoreapp2.1\Put in Simple Conditions.dll
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\bin\Debug\netcoreapp2.1\Put in Simple Conditions.pdb
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\obj\Debug\netcoreapp2.1\Put in Simple Conditions.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\obj\Debug\netcoreapp2.1\Put in Simple Conditions.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\obj\Debug\netcoreapp2.1\Put in Simple Conditions.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\obj\Debug\netcoreapp2.1\Put in Simple Conditions.dll
+D:\Projects\Nested Conditional Statements\Put in Simple Conditions\obj\Debug\netcoreapp2.1\Put in Simple Conditions.pdb

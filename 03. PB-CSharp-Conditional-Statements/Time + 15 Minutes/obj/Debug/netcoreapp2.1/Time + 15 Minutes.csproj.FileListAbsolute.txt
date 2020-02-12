@@ -1,0 +1,11 @@
+D:\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\netcoreapp2.1\Time + 15 Minutes.deps.json
+D:\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\netcoreapp2.1\Time + 15 Minutes.runtimeconfig.json
+D:\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\netcoreapp2.1\Time + 15 Minutes.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\netcoreapp2.1\Time + 15 Minutes.dll
+D:\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\netcoreapp2.1\Time + 15 Minutes.pdb
+D:\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\netcoreapp2.1\Time + 15 Minutes.csprojAssemblyReference.cache
+D:\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\netcoreapp2.1\Time + 15 Minutes.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\netcoreapp2.1\Time + 15 Minutes.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\netcoreapp2.1\Time + 15 Minutes.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\netcoreapp2.1\Time + 15 Minutes.dll
+D:\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\netcoreapp2.1\Time + 15 Minutes.pdb

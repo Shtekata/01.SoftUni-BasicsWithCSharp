@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Fishing Boat\bin\Debug\netcoreapp2.1\Fishing Boat.deps.json
+D:\Projects\Nested Conditional Statements\Fishing Boat\bin\Debug\netcoreapp2.1\Fishing Boat.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Fishing Boat\bin\Debug\netcoreapp2.1\Fishing Boat.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Fishing Boat\bin\Debug\netcoreapp2.1\Fishing Boat.dll
+D:\Projects\Nested Conditional Statements\Fishing Boat\bin\Debug\netcoreapp2.1\Fishing Boat.pdb
+D:\Projects\Nested Conditional Statements\Fishing Boat\obj\Debug\netcoreapp2.1\Fishing Boat.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Fishing Boat\obj\Debug\netcoreapp2.1\Fishing Boat.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Fishing Boat\obj\Debug\netcoreapp2.1\Fishing Boat.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Fishing Boat\obj\Debug\netcoreapp2.1\Fishing Boat.dll
+D:\Projects\Nested Conditional Statements\Fishing Boat\obj\Debug\netcoreapp2.1\Fishing Boat.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\bin\Debug\netcoreapp2.1\Trip To World Cup.deps.json
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\bin\Debug\netcoreapp2.1\Trip To World Cup.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\bin\Debug\netcoreapp2.1\Trip To World Cup.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\bin\Debug\netcoreapp2.1\Trip To World Cup.dll
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\bin\Debug\netcoreapp2.1\Trip To World Cup.pdb
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\obj\Debug\netcoreapp2.1\Trip To World Cup.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\obj\Debug\netcoreapp2.1\Trip To World Cup.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\obj\Debug\netcoreapp2.1\Trip To World Cup.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\obj\Debug\netcoreapp2.1\Trip To World Cup.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\obj\Debug\netcoreapp2.1\Trip To World Cup.dll
+D:\Projects\Basics Online Exam 07.18\Trip To World Cup\obj\Debug\netcoreapp2.1\Trip To World Cup.pdb

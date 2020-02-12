@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\bin\Debug\netcoreapp2.1\Trekking equipment.deps.json
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\bin\Debug\netcoreapp2.1\Trekking equipment.runtimeconfig.json
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\bin\Debug\netcoreapp2.1\Trekking equipment.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\bin\Debug\netcoreapp2.1\Trekking equipment.dll
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\bin\Debug\netcoreapp2.1\Trekking equipment.pdb
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\obj\Debug\netcoreapp2.1\Trekking equipment.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\obj\Debug\netcoreapp2.1\Trekking equipment.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\obj\Debug\netcoreapp2.1\Trekking equipment.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\obj\Debug\netcoreapp2.1\Trekking equipment.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\obj\Debug\netcoreapp2.1\Trekking equipment.dll
+D:\Projects\Basics Online Exam 02.12.18\Trekking equipment\obj\Debug\netcoreapp2.1\Trekking equipment.pdb

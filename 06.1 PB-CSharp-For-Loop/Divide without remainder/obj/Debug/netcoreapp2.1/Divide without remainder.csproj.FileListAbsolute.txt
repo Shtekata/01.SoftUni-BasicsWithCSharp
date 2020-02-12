@@ -1,0 +1,11 @@
+D:\Projects\For Loops\Divide without remainder\bin\Debug\netcoreapp2.1\Divide without remainder.deps.json
+D:\Projects\For Loops\Divide without remainder\bin\Debug\netcoreapp2.1\Divide without remainder.runtimeconfig.json
+D:\Projects\For Loops\Divide without remainder\bin\Debug\netcoreapp2.1\Divide without remainder.runtimeconfig.dev.json
+D:\Projects\For Loops\Divide without remainder\bin\Debug\netcoreapp2.1\Divide without remainder.dll
+D:\Projects\For Loops\Divide without remainder\bin\Debug\netcoreapp2.1\Divide without remainder.pdb
+D:\Projects\For Loops\Divide without remainder\obj\Debug\netcoreapp2.1\Divide without remainder.csprojAssemblyReference.cache
+D:\Projects\For Loops\Divide without remainder\obj\Debug\netcoreapp2.1\Divide without remainder.csproj.CoreCompileInputs.cache
+D:\Projects\For Loops\Divide without remainder\obj\Debug\netcoreapp2.1\Divide without remainder.AssemblyInfoInputs.cache
+D:\Projects\For Loops\Divide without remainder\obj\Debug\netcoreapp2.1\Divide without remainder.AssemblyInfo.cs
+D:\Projects\For Loops\Divide without remainder\obj\Debug\netcoreapp2.1\Divide without remainder.dll
+D:\Projects\For Loops\Divide without remainder\obj\Debug\netcoreapp2.1\Divide without remainder.pdb

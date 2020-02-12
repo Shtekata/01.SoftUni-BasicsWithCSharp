@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Bachelor Party\bin\Debug\netcoreapp2.1\Bachelor Party.deps.json
+D:\Projects\Basics Online Exam\Bachelor Party\bin\Debug\netcoreapp2.1\Bachelor Party.runtimeconfig.json
+D:\Projects\Basics Online Exam\Bachelor Party\bin\Debug\netcoreapp2.1\Bachelor Party.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Bachelor Party\bin\Debug\netcoreapp2.1\Bachelor Party.dll
+D:\Projects\Basics Online Exam\Bachelor Party\bin\Debug\netcoreapp2.1\Bachelor Party.pdb
+D:\Projects\Basics Online Exam\Bachelor Party\obj\Debug\netcoreapp2.1\Bachelor Party.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Bachelor Party\obj\Debug\netcoreapp2.1\Bachelor Party.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Bachelor Party\obj\Debug\netcoreapp2.1\Bachelor Party.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Bachelor Party\obj\Debug\netcoreapp2.1\Bachelor Party.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Bachelor Party\obj\Debug\netcoreapp2.1\Bachelor Party.dll
+D:\Projects\Basics Online Exam\Bachelor Party\obj\Debug\netcoreapp2.1\Bachelor Party.pdb

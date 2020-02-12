@@ -1,0 +1,11 @@
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\bin\Debug\netcoreapp2.1\Sea Trip.deps.json
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\bin\Debug\netcoreapp2.1\Sea Trip.runtimeconfig.json
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\bin\Debug\netcoreapp2.1\Sea Trip.runtimeconfig.dev.json
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\bin\Debug\netcoreapp2.1\Sea Trip.dll
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\bin\Debug\netcoreapp2.1\Sea Trip.pdb
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\obj\Debug\netcoreapp2.1\Sea Trip.csprojAssemblyReference.cache
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\obj\Debug\netcoreapp2.1\Sea Trip.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\obj\Debug\netcoreapp2.1\Sea Trip.AssemblyInfoInputs.cache
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\obj\Debug\netcoreapp2.1\Sea Trip.AssemblyInfo.cs
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\obj\Debug\netcoreapp2.1\Sea Trip.dll
+D:\Projects\Basics Sample Exam 11.18\Sea Trip\obj\Debug\netcoreapp2.1\Sea Trip.pdb

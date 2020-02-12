@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Wedding Party\obj\Debug\netcoreapp2.1\Wedding Party.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Wedding Party\obj\Debug\netcoreapp2.1\Wedding Party.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Wedding Party\obj\Debug\netcoreapp2.1\Wedding Party.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Wedding Party\obj\Debug\netcoreapp2.1\Wedding Party.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Wedding Party\bin\Debug\netcoreapp2.1\Wedding Party.deps.json
+D:\Projects\Basics Online Exam\Wedding Party\bin\Debug\netcoreapp2.1\Wedding Party.runtimeconfig.json
+D:\Projects\Basics Online Exam\Wedding Party\bin\Debug\netcoreapp2.1\Wedding Party.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Wedding Party\bin\Debug\netcoreapp2.1\Wedding Party.dll
+D:\Projects\Basics Online Exam\Wedding Party\bin\Debug\netcoreapp2.1\Wedding Party.pdb
+D:\Projects\Basics Online Exam\Wedding Party\obj\Debug\netcoreapp2.1\Wedding Party.dll
+D:\Projects\Basics Online Exam\Wedding Party\obj\Debug\netcoreapp2.1\Wedding Party.pdb

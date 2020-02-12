@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.deps.json
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.runtimeconfig.json
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.dll
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.pdb
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.dll
+D:\Projects\Basics Online Exam 02.12.18\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.pdb

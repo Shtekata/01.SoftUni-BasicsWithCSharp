@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Stadium Income\bin\Debug\netcoreapp2.1\Stadium Income.deps.json
+D:\Projects\Basics Online Exam 07.18\Stadium Income\bin\Debug\netcoreapp2.1\Stadium Income.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Stadium Income\bin\Debug\netcoreapp2.1\Stadium Income.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Stadium Income\bin\Debug\netcoreapp2.1\Stadium Income.dll
+D:\Projects\Basics Online Exam 07.18\Stadium Income\bin\Debug\netcoreapp2.1\Stadium Income.pdb
+D:\Projects\Basics Online Exam 07.18\Stadium Income\obj\Debug\netcoreapp2.1\Stadium Income.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Stadium Income\obj\Debug\netcoreapp2.1\Stadium Income.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Stadium Income\obj\Debug\netcoreapp2.1\Stadium Income.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Stadium Income\obj\Debug\netcoreapp2.1\Stadium Income.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Stadium Income\obj\Debug\netcoreapp2.1\Stadium Income.dll
+D:\Projects\Basics Online Exam 07.18\Stadium Income\obj\Debug\netcoreapp2.1\Stadium Income.pdb

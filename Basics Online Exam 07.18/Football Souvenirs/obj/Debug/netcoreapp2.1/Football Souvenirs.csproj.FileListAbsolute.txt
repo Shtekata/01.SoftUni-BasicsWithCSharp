@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\bin\Debug\netcoreapp2.1\Football Souvenirs.deps.json
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\bin\Debug\netcoreapp2.1\Football Souvenirs.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\bin\Debug\netcoreapp2.1\Football Souvenirs.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\bin\Debug\netcoreapp2.1\Football Souvenirs.dll
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\bin\Debug\netcoreapp2.1\Football Souvenirs.pdb
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\obj\Debug\netcoreapp2.1\Football Souvenirs.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\obj\Debug\netcoreapp2.1\Football Souvenirs.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\obj\Debug\netcoreapp2.1\Football Souvenirs.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\obj\Debug\netcoreapp2.1\Football Souvenirs.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\obj\Debug\netcoreapp2.1\Football Souvenirs.dll
+D:\Projects\Basics Online Exam 07.18\Football Souvenirs\obj\Debug\netcoreapp2.1\Football Souvenirs.pdb

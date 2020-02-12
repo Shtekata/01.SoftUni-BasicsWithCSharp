@@ -1,0 +1,11 @@
+D:\Projects\Simple Calculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.deps.json
+D:\Projects\Simple Calculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.json
+D:\Projects\Simple Calculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.dev.json
+D:\Projects\Simple Calculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.dll
+D:\Projects\Simple Calculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.pdb
+D:\Projects\Simple Calculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.csprojAssemblyReference.cache
+D:\Projects\Simple Calculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Calculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfoInputs.cache
+D:\Projects\Simple Calculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfo.cs
+D:\Projects\Simple Calculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.dll
+D:\Projects\Simple Calculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.pdb

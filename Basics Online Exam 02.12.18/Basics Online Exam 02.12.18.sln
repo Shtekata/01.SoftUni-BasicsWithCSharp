@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekking equipment", "Trekking equipment\Trekking equipment.csproj", "{4D4BE75A-1E74-4F87-858A-F0CB2D1E8028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mountain Run", "Mountain Run\Mountain Run.csproj", "{42D20F9A-4015-4706-A567-FA287E82C5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ski Trip", "Ski Trip\Ski Trip.csproj", "{4A3E36CD-3629-455F-87F2-8177A8EA4917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Everest", "Everest\Everest.csproj", "{7D514C21-364D-4C1A-9358-3F2C77CF733B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekking Mania", "Trekking Mania\Trekking Mania.csproj", "{F223E4A4-5313-4FC4-BF0D-EBB6D8338665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safe Passwords Generator", "Safe Passwords Generator\Safe Passwords Generator.csproj", "{054F1A7D-AF9C-4BF4-A541-954B6C7E23F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4BE75A-1E74-4F87-858A-F0CB2D1E8028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4BE75A-1E74-4F87-858A-F0CB2D1E8028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4BE75A-1E74-4F87-858A-F0CB2D1E8028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4BE75A-1E74-4F87-858A-F0CB2D1E8028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D20F9A-4015-4706-A567-FA287E82C5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D20F9A-4015-4706-A567-FA287E82C5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D20F9A-4015-4706-A567-FA287E82C5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D20F9A-4015-4706-A567-FA287E82C5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3E36CD-3629-455F-87F2-8177A8EA4917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3E36CD-3629-455F-87F2-8177A8EA4917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3E36CD-3629-455F-87F2-8177A8EA4917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3E36CD-3629-455F-87F2-8177A8EA4917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D514C21-364D-4C1A-9358-3F2C77CF733B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D514C21-364D-4C1A-9358-3F2C77CF733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D514C21-364D-4C1A-9358-3F2C77CF733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D514C21-364D-4C1A-9358-3F2C77CF733B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F223E4A4-5313-4FC4-BF0D-EBB6D8338665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F223E4A4-5313-4FC4-BF0D-EBB6D8338665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F223E4A4-5313-4FC4-BF0D-EBB6D8338665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F223E4A4-5313-4FC4-BF0D-EBB6D8338665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054F1A7D-AF9C-4BF4-A541-954B6C7E23F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054F1A7D-AF9C-4BF4-A541-954B6C7E23F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054F1A7D-AF9C-4BF4-A541-954B6C7E23F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054F1A7D-AF9C-4BF4-A541-954B6C7E23F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3369BE-087B-43FA-B8AD-9E9460F90686}
+	EndGlobalSection
+EndGlobal

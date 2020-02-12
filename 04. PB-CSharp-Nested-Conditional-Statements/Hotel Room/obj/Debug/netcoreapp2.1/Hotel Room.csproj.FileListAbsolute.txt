@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.deps.json
+D:\Projects\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.dll
+D:\Projects\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.pdb
+D:\Projects\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.dll
+D:\Projects\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.pdb

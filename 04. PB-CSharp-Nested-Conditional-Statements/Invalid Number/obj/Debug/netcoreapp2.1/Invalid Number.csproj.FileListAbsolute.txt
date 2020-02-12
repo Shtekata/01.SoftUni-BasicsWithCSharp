@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.deps.json
+D:\Projects\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.dll
+D:\Projects\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.pdb
+D:\Projects\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.dll
+D:\Projects\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.pdb

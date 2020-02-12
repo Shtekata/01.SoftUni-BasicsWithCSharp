@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Square of Stars\bin\Debug\netcoreapp2.1\Square of Stars.deps.json
+D:\Projects\Nested Loops\Square of Stars\bin\Debug\netcoreapp2.1\Square of Stars.runtimeconfig.json
+D:\Projects\Nested Loops\Square of Stars\bin\Debug\netcoreapp2.1\Square of Stars.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Square of Stars\bin\Debug\netcoreapp2.1\Square of Stars.dll
+D:\Projects\Nested Loops\Square of Stars\bin\Debug\netcoreapp2.1\Square of Stars.pdb
+D:\Projects\Nested Loops\Square of Stars\obj\Debug\netcoreapp2.1\Square of Stars.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Square of Stars\obj\Debug\netcoreapp2.1\Square of Stars.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Square of Stars\obj\Debug\netcoreapp2.1\Square of Stars.AssemblyInfo.cs
+D:\Projects\Nested Loops\Square of Stars\obj\Debug\netcoreapp2.1\Square of Stars.dll
+D:\Projects\Nested Loops\Square of Stars\obj\Debug\netcoreapp2.1\Square of Stars.pdb
+D:\Projects\Nested Loops\Square of Stars\obj\Debug\netcoreapp2.1\Square of Stars.csprojAssemblyReference.cache

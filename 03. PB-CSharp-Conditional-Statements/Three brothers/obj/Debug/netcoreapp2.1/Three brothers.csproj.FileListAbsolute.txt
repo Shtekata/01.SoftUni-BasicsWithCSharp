@@ -1,0 +1,11 @@
+D:\Projects\Simple-Conditions\Three brothers\bin\Debug\netcoreapp2.1\Three brothers.deps.json
+D:\Projects\Simple-Conditions\Three brothers\bin\Debug\netcoreapp2.1\Three brothers.runtimeconfig.json
+D:\Projects\Simple-Conditions\Three brothers\bin\Debug\netcoreapp2.1\Three brothers.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Three brothers\bin\Debug\netcoreapp2.1\Three brothers.dll
+D:\Projects\Simple-Conditions\Three brothers\bin\Debug\netcoreapp2.1\Three brothers.pdb
+D:\Projects\Simple-Conditions\Three brothers\obj\Debug\netcoreapp2.1\Three brothers.csprojAssemblyReference.cache
+D:\Projects\Simple-Conditions\Three brothers\obj\Debug\netcoreapp2.1\Three brothers.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Three brothers\obj\Debug\netcoreapp2.1\Three brothers.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Three brothers\obj\Debug\netcoreapp2.1\Three brothers.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Three brothers\obj\Debug\netcoreapp2.1\Three brothers.dll
+D:\Projects\Simple-Conditions\Three brothers\obj\Debug\netcoreapp2.1\Three brothers.pdb

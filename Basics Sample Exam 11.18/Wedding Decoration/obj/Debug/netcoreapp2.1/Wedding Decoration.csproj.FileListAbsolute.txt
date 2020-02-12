@@ -1,0 +1,11 @@
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\bin\Debug\netcoreapp2.1\Wedding Decoration.deps.json
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\bin\Debug\netcoreapp2.1\Wedding Decoration.runtimeconfig.json
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\bin\Debug\netcoreapp2.1\Wedding Decoration.runtimeconfig.dev.json
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\bin\Debug\netcoreapp2.1\Wedding Decoration.dll
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\bin\Debug\netcoreapp2.1\Wedding Decoration.pdb
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\obj\Debug\netcoreapp2.1\Wedding Decoration.csprojAssemblyReference.cache
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\obj\Debug\netcoreapp2.1\Wedding Decoration.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\obj\Debug\netcoreapp2.1\Wedding Decoration.AssemblyInfoInputs.cache
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\obj\Debug\netcoreapp2.1\Wedding Decoration.AssemblyInfo.cs
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\obj\Debug\netcoreapp2.1\Wedding Decoration.dll
+D:\Projects\Basics Sample Exam 11.18\Wedding Decoration\obj\Debug\netcoreapp2.1\Wedding Decoration.pdb

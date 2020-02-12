@@ -1,0 +1,10 @@
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.AssemblyInfoInputs.cache
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.AssemblyInfo.cs
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.deps.json
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.runtimeconfig.json
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.runtimeconfig.dev.json
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.dll
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.pdb
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.dll
+D:\Projects\Simple Calculations\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.pdb

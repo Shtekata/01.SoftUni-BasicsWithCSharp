@@ -1,0 +1,10 @@
+D:\Projects\Conditional Statements\Even or Odd\obj\Debug\netcoreapp2.1\Even or Odd.csproj.CoreCompileInputs.cache
+D:\Projects\Conditional Statements\Even or Odd\obj\Debug\netcoreapp2.1\Even or Odd.AssemblyInfoInputs.cache
+D:\Projects\Conditional Statements\Even or Odd\obj\Debug\netcoreapp2.1\Even or Odd.AssemblyInfo.cs
+D:\Projects\Conditional Statements\Even or Odd\bin\Debug\netcoreapp2.1\Even or Odd.deps.json
+D:\Projects\Conditional Statements\Even or Odd\bin\Debug\netcoreapp2.1\Even or Odd.runtimeconfig.json
+D:\Projects\Conditional Statements\Even or Odd\bin\Debug\netcoreapp2.1\Even or Odd.runtimeconfig.dev.json
+D:\Projects\Conditional Statements\Even or Odd\bin\Debug\netcoreapp2.1\Even or Odd.dll
+D:\Projects\Conditional Statements\Even or Odd\bin\Debug\netcoreapp2.1\Even or Odd.pdb
+D:\Projects\Conditional Statements\Even or Odd\obj\Debug\netcoreapp2.1\Even or Odd.dll
+D:\Projects\Conditional Statements\Even or Odd\obj\Debug\netcoreapp2.1\Even or Odd.pdb

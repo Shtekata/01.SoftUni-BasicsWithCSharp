@@ -1,0 +1,11 @@
+D:\Projects\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp2.1\Animal Type.deps.json
+D:\Projects\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp2.1\Animal Type.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp2.1\Animal Type.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp2.1\Animal Type.dll
+D:\Projects\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp2.1\Animal Type.pdb
+D:\Projects\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp2.1\Animal Type.csprojAssemblyReference.cache
+D:\Projects\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp2.1\Animal Type.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp2.1\Animal Type.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp2.1\Animal Type.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp2.1\Animal Type.dll
+D:\Projects\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp2.1\Animal Type.pdb

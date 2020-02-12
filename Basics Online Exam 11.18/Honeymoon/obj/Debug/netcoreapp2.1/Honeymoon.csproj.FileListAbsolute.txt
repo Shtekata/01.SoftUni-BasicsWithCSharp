@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Honeymoon\bin\Debug\netcoreapp2.1\Honeymoon.deps.json
+D:\Projects\Basics Online Exam\Honeymoon\bin\Debug\netcoreapp2.1\Honeymoon.runtimeconfig.json
+D:\Projects\Basics Online Exam\Honeymoon\bin\Debug\netcoreapp2.1\Honeymoon.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Honeymoon\bin\Debug\netcoreapp2.1\Honeymoon.dll
+D:\Projects\Basics Online Exam\Honeymoon\bin\Debug\netcoreapp2.1\Honeymoon.pdb
+D:\Projects\Basics Online Exam\Honeymoon\obj\Debug\netcoreapp2.1\Honeymoon.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Honeymoon\obj\Debug\netcoreapp2.1\Honeymoon.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Honeymoon\obj\Debug\netcoreapp2.1\Honeymoon.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Honeymoon\obj\Debug\netcoreapp2.1\Honeymoon.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Honeymoon\obj\Debug\netcoreapp2.1\Honeymoon.dll
+D:\Projects\Basics Online Exam\Honeymoon\obj\Debug\netcoreapp2.1\Honeymoon.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Simple-Conditions\Number 100-200\bin\Debug\netcoreapp2.1\Number 100-200.deps.json
+D:\Projects\Simple-Conditions\Number 100-200\bin\Debug\netcoreapp2.1\Number 100-200.runtimeconfig.json
+D:\Projects\Simple-Conditions\Number 100-200\bin\Debug\netcoreapp2.1\Number 100-200.runtimeconfig.dev.json
+D:\Projects\Simple-Conditions\Number 100-200\bin\Debug\netcoreapp2.1\Number 100-200.dll
+D:\Projects\Simple-Conditions\Number 100-200\bin\Debug\netcoreapp2.1\Number 100-200.pdb
+D:\Projects\Simple-Conditions\Number 100-200\obj\Debug\netcoreapp2.1\Number 100-200.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Conditions\Number 100-200\obj\Debug\netcoreapp2.1\Number 100-200.AssemblyInfoInputs.cache
+D:\Projects\Simple-Conditions\Number 100-200\obj\Debug\netcoreapp2.1\Number 100-200.AssemblyInfo.cs
+D:\Projects\Simple-Conditions\Number 100-200\obj\Debug\netcoreapp2.1\Number 100-200.dll
+D:\Projects\Simple-Conditions\Number 100-200\obj\Debug\netcoreapp2.1\Number 100-200.pdb

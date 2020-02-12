@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\bin\Debug\netcoreapp2.1\Unique PIN Codes.deps.json
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\bin\Debug\netcoreapp2.1\Unique PIN Codes.runtimeconfig.json
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\bin\Debug\netcoreapp2.1\Unique PIN Codes.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\bin\Debug\netcoreapp2.1\Unique PIN Codes.dll
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\bin\Debug\netcoreapp2.1\Unique PIN Codes.pdb
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\obj\Debug\netcoreapp2.1\Unique PIN Codes.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\obj\Debug\netcoreapp2.1\Unique PIN Codes.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\obj\Debug\netcoreapp2.1\Unique PIN Codes.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\obj\Debug\netcoreapp2.1\Unique PIN Codes.dll
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\obj\Debug\netcoreapp2.1\Unique PIN Codes.pdb
+D:\Projects\Basics Online Exam 08.18\Unique PIN Codes\obj\Debug\netcoreapp2.1\Unique PIN Codes.csprojAssemblyReference.cache

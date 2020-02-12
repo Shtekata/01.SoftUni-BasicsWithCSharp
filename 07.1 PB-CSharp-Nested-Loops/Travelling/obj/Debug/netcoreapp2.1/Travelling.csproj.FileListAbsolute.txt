@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Travelling\bin\Debug\netcoreapp2.1\Travelling.deps.json
+D:\Projects\Nested Loops\Travelling\bin\Debug\netcoreapp2.1\Travelling.runtimeconfig.json
+D:\Projects\Nested Loops\Travelling\bin\Debug\netcoreapp2.1\Travelling.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Travelling\bin\Debug\netcoreapp2.1\Travelling.dll
+D:\Projects\Nested Loops\Travelling\bin\Debug\netcoreapp2.1\Travelling.pdb
+D:\Projects\Nested Loops\Travelling\obj\Debug\netcoreapp2.1\Travelling.csprojAssemblyReference.cache
+D:\Projects\Nested Loops\Travelling\obj\Debug\netcoreapp2.1\Travelling.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Travelling\obj\Debug\netcoreapp2.1\Travelling.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Travelling\obj\Debug\netcoreapp2.1\Travelling.AssemblyInfo.cs
+D:\Projects\Nested Loops\Travelling\obj\Debug\netcoreapp2.1\Travelling.dll
+D:\Projects\Nested Loops\Travelling\obj\Debug\netcoreapp2.1\Travelling.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Trade Comissions\bin\Debug\netcoreapp2.1\Trade Comissions.deps.json
+D:\Projects\Nested Conditional Statements\Trade Comissions\bin\Debug\netcoreapp2.1\Trade Comissions.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Trade Comissions\bin\Debug\netcoreapp2.1\Trade Comissions.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Trade Comissions\bin\Debug\netcoreapp2.1\Trade Comissions.dll
+D:\Projects\Nested Conditional Statements\Trade Comissions\bin\Debug\netcoreapp2.1\Trade Comissions.pdb
+D:\Projects\Nested Conditional Statements\Trade Comissions\obj\Debug\netcoreapp2.1\Trade Comissions.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Trade Comissions\obj\Debug\netcoreapp2.1\Trade Comissions.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Trade Comissions\obj\Debug\netcoreapp2.1\Trade Comissions.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Trade Comissions\obj\Debug\netcoreapp2.1\Trade Comissions.dll
+D:\Projects\Nested Conditional Statements\Trade Comissions\obj\Debug\netcoreapp2.1\Trade Comissions.pdb

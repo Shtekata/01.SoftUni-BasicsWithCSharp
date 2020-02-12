@@ -1,0 +1,11 @@
+D:\Projects\Nested Loops\Diamond\bin\Debug\netcoreapp2.1\Diamond.deps.json
+D:\Projects\Nested Loops\Diamond\bin\Debug\netcoreapp2.1\Diamond.runtimeconfig.json
+D:\Projects\Nested Loops\Diamond\bin\Debug\netcoreapp2.1\Diamond.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Diamond\bin\Debug\netcoreapp2.1\Diamond.dll
+D:\Projects\Nested Loops\Diamond\bin\Debug\netcoreapp2.1\Diamond.pdb
+D:\Projects\Nested Loops\Diamond\obj\Debug\netcoreapp2.1\Diamond.csprojAssemblyReference.cache
+D:\Projects\Nested Loops\Diamond\obj\Debug\netcoreapp2.1\Diamond.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Diamond\obj\Debug\netcoreapp2.1\Diamond.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Diamond\obj\Debug\netcoreapp2.1\Diamond.AssemblyInfo.cs
+D:\Projects\Nested Loops\Diamond\obj\Debug\netcoreapp2.1\Diamond.dll
+D:\Projects\Nested Loops\Diamond\obj\Debug\netcoreapp2.1\Diamond.pdb

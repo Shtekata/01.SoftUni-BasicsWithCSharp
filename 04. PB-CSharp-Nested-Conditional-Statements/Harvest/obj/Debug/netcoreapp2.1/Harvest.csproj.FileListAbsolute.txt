@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Harvest\bin\Debug\netcoreapp2.1\Harvest.deps.json
+D:\Projects\Nested Conditional Statements\Harvest\bin\Debug\netcoreapp2.1\Harvest.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Harvest\bin\Debug\netcoreapp2.1\Harvest.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Harvest\bin\Debug\netcoreapp2.1\Harvest.dll
+D:\Projects\Nested Conditional Statements\Harvest\bin\Debug\netcoreapp2.1\Harvest.pdb
+D:\Projects\Nested Conditional Statements\Harvest\obj\Debug\netcoreapp2.1\Harvest.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Harvest\obj\Debug\netcoreapp2.1\Harvest.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Harvest\obj\Debug\netcoreapp2.1\Harvest.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Harvest\obj\Debug\netcoreapp2.1\Harvest.dll
+D:\Projects\Nested Conditional Statements\Harvest\obj\Debug\netcoreapp2.1\Harvest.pdb

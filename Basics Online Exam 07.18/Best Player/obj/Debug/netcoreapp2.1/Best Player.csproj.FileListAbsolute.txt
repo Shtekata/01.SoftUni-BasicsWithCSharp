@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam 07.18\Best Player\bin\Debug\netcoreapp2.1\Best Player.deps.json
+D:\Projects\Basics Online Exam 07.18\Best Player\bin\Debug\netcoreapp2.1\Best Player.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Best Player\bin\Debug\netcoreapp2.1\Best Player.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Best Player\bin\Debug\netcoreapp2.1\Best Player.dll
+D:\Projects\Basics Online Exam 07.18\Best Player\bin\Debug\netcoreapp2.1\Best Player.pdb
+D:\Projects\Basics Online Exam 07.18\Best Player\obj\Debug\netcoreapp2.1\Best Player.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam 07.18\Best Player\obj\Debug\netcoreapp2.1\Best Player.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Best Player\obj\Debug\netcoreapp2.1\Best Player.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Best Player\obj\Debug\netcoreapp2.1\Best Player.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Best Player\obj\Debug\netcoreapp2.1\Best Player.dll
+D:\Projects\Basics Online Exam 07.18\Best Player\obj\Debug\netcoreapp2.1\Best Player.pdb

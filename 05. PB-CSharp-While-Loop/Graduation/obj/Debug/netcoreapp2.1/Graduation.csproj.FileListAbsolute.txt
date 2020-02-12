@@ -1,0 +1,11 @@
+D:\Projects\While Loop\Graduation\bin\Debug\netcoreapp2.1\Graduation.deps.json
+D:\Projects\While Loop\Graduation\bin\Debug\netcoreapp2.1\Graduation.runtimeconfig.json
+D:\Projects\While Loop\Graduation\bin\Debug\netcoreapp2.1\Graduation.runtimeconfig.dev.json
+D:\Projects\While Loop\Graduation\bin\Debug\netcoreapp2.1\Graduation.dll
+D:\Projects\While Loop\Graduation\bin\Debug\netcoreapp2.1\Graduation.pdb
+D:\Projects\While Loop\Graduation\obj\Debug\netcoreapp2.1\Graduation.csprojAssemblyReference.cache
+D:\Projects\While Loop\Graduation\obj\Debug\netcoreapp2.1\Graduation.csproj.CoreCompileInputs.cache
+D:\Projects\While Loop\Graduation\obj\Debug\netcoreapp2.1\Graduation.AssemblyInfoInputs.cache
+D:\Projects\While Loop\Graduation\obj\Debug\netcoreapp2.1\Graduation.AssemblyInfo.cs
+D:\Projects\While Loop\Graduation\obj\Debug\netcoreapp2.1\Graduation.dll
+D:\Projects\While Loop\Graduation\obj\Debug\netcoreapp2.1\Graduation.pdb

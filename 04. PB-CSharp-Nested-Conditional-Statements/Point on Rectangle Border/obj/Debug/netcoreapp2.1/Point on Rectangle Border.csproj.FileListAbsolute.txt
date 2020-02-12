@@ -1,0 +1,10 @@
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.deps.json
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.runtimeconfig.json
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.runtimeconfig.dev.json
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.dll
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.pdb
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.AssemblyInfoInputs.cache
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.AssemblyInfo.cs
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.dll
+D:\Projects\Nested Conditional Statements\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Basics Online Exam 07.18\Fan Shop\bin\Debug\netcoreapp2.1\Fan Shop.deps.json
+D:\Projects\Basics Online Exam 07.18\Fan Shop\bin\Debug\netcoreapp2.1\Fan Shop.runtimeconfig.json
+D:\Projects\Basics Online Exam 07.18\Fan Shop\bin\Debug\netcoreapp2.1\Fan Shop.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam 07.18\Fan Shop\bin\Debug\netcoreapp2.1\Fan Shop.dll
+D:\Projects\Basics Online Exam 07.18\Fan Shop\bin\Debug\netcoreapp2.1\Fan Shop.pdb
+D:\Projects\Basics Online Exam 07.18\Fan Shop\obj\Debug\netcoreapp2.1\Fan Shop.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam 07.18\Fan Shop\obj\Debug\netcoreapp2.1\Fan Shop.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam 07.18\Fan Shop\obj\Debug\netcoreapp2.1\Fan Shop.AssemblyInfo.cs
+D:\Projects\Basics Online Exam 07.18\Fan Shop\obj\Debug\netcoreapp2.1\Fan Shop.dll
+D:\Projects\Basics Online Exam 07.18\Fan Shop\obj\Debug\netcoreapp2.1\Fan Shop.pdb

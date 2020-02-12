@@ -1,0 +1,11 @@
+D:\Projects\Basics Online Exam\Callenge the Wedding\bin\Debug\netcoreapp2.1\Callenge the Wedding.deps.json
+D:\Projects\Basics Online Exam\Callenge the Wedding\bin\Debug\netcoreapp2.1\Callenge the Wedding.runtimeconfig.json
+D:\Projects\Basics Online Exam\Callenge the Wedding\bin\Debug\netcoreapp2.1\Callenge the Wedding.runtimeconfig.dev.json
+D:\Projects\Basics Online Exam\Callenge the Wedding\bin\Debug\netcoreapp2.1\Callenge the Wedding.dll
+D:\Projects\Basics Online Exam\Callenge the Wedding\bin\Debug\netcoreapp2.1\Callenge the Wedding.pdb
+D:\Projects\Basics Online Exam\Callenge the Wedding\obj\Debug\netcoreapp2.1\Callenge the Wedding.csprojAssemblyReference.cache
+D:\Projects\Basics Online Exam\Callenge the Wedding\obj\Debug\netcoreapp2.1\Callenge the Wedding.csproj.CoreCompileInputs.cache
+D:\Projects\Basics Online Exam\Callenge the Wedding\obj\Debug\netcoreapp2.1\Callenge the Wedding.AssemblyInfoInputs.cache
+D:\Projects\Basics Online Exam\Callenge the Wedding\obj\Debug\netcoreapp2.1\Callenge the Wedding.AssemblyInfo.cs
+D:\Projects\Basics Online Exam\Callenge the Wedding\obj\Debug\netcoreapp2.1\Callenge the Wedding.dll
+D:\Projects\Basics Online Exam\Callenge the Wedding\obj\Debug\netcoreapp2.1\Callenge the Wedding.pdb

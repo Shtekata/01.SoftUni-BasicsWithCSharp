@@ -1,0 +1,10 @@
+D:\Projects\Simple Calculations\Catch The Button\bin\Debug\Catch The Button.exe.config
+D:\Projects\Simple Calculations\Catch The Button\bin\Debug\Catch The Button.exe
+D:\Projects\Simple Calculations\Catch The Button\bin\Debug\Catch The Button.pdb
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch The Button.csprojAssemblyReference.cache
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch_The_Button.Form1.resources
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch_The_Button.Properties.Resources.resources
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch The Button.csproj.GenerateResource.cache
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch The Button.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch The Button.exe
+D:\Projects\Simple Calculations\Catch The Button\obj\Debug\Catch The Button.pdb

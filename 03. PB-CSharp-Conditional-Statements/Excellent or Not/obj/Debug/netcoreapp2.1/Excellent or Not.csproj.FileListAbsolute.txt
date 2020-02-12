@@ -1,0 +1,10 @@
+D:\Projects\Conditional Statements\Excellent or Not\bin\Debug\netcoreapp2.1\Excellent or Not.deps.json
+D:\Projects\Conditional Statements\Excellent or Not\bin\Debug\netcoreapp2.1\Excellent or Not.runtimeconfig.json
+D:\Projects\Conditional Statements\Excellent or Not\bin\Debug\netcoreapp2.1\Excellent or Not.runtimeconfig.dev.json
+D:\Projects\Conditional Statements\Excellent or Not\bin\Debug\netcoreapp2.1\Excellent or Not.dll
+D:\Projects\Conditional Statements\Excellent or Not\bin\Debug\netcoreapp2.1\Excellent or Not.pdb
+D:\Projects\Conditional Statements\Excellent or Not\obj\Debug\netcoreapp2.1\Excellent or Not.csproj.CoreCompileInputs.cache
+D:\Projects\Conditional Statements\Excellent or Not\obj\Debug\netcoreapp2.1\Excellent or Not.AssemblyInfoInputs.cache
+D:\Projects\Conditional Statements\Excellent or Not\obj\Debug\netcoreapp2.1\Excellent or Not.AssemblyInfo.cs
+D:\Projects\Conditional Statements\Excellent or Not\obj\Debug\netcoreapp2.1\Excellent or Not.dll
+D:\Projects\Conditional Statements\Excellent or Not\obj\Debug\netcoreapp2.1\Excellent or Not.pdb

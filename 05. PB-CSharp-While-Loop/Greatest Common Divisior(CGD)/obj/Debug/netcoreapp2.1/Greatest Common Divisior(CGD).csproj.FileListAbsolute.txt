@@ -1,0 +1,11 @@
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\bin\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).deps.json
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\bin\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).runtimeconfig.json
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\bin\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).runtimeconfig.dev.json
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\bin\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).dll
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\bin\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).pdb
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\obj\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).csprojAssemblyReference.cache
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\obj\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).csproj.CoreCompileInputs.cache
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\obj\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).AssemblyInfoInputs.cache
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\obj\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).AssemblyInfo.cs
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\obj\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).dll
+D:\Projects\While Loop\Greatest Common Divisior(CGD)\obj\Debug\netcoreapp2.1\Greatest Common Divisior(CGD).pdb

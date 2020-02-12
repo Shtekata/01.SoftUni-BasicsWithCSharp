@@ -1,0 +1,10 @@
+D:\Projects\Nested Loops\Triangle of Dollars\bin\Debug\netcoreapp2.1\Triangle of Dollars.deps.json
+D:\Projects\Nested Loops\Triangle of Dollars\bin\Debug\netcoreapp2.1\Triangle of Dollars.runtimeconfig.json
+D:\Projects\Nested Loops\Triangle of Dollars\bin\Debug\netcoreapp2.1\Triangle of Dollars.runtimeconfig.dev.json
+D:\Projects\Nested Loops\Triangle of Dollars\bin\Debug\netcoreapp2.1\Triangle of Dollars.dll
+D:\Projects\Nested Loops\Triangle of Dollars\bin\Debug\netcoreapp2.1\Triangle of Dollars.pdb
+D:\Projects\Nested Loops\Triangle of Dollars\obj\Debug\netcoreapp2.1\Triangle of Dollars.csproj.CoreCompileInputs.cache
+D:\Projects\Nested Loops\Triangle of Dollars\obj\Debug\netcoreapp2.1\Triangle of Dollars.AssemblyInfoInputs.cache
+D:\Projects\Nested Loops\Triangle of Dollars\obj\Debug\netcoreapp2.1\Triangle of Dollars.AssemblyInfo.cs
+D:\Projects\Nested Loops\Triangle of Dollars\obj\Debug\netcoreapp2.1\Triangle of Dollars.dll
+D:\Projects\Nested Loops\Triangle of Dollars\obj\Debug\netcoreapp2.1\Triangle of Dollars.pdb

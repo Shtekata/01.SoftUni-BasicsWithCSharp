@@ -1,0 +1,10 @@
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\bin\Debug\netcoreapp2.1\Circle Area and Perimeter.deps.json
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\bin\Debug\netcoreapp2.1\Circle Area and Perimeter.runtimeconfig.json
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\bin\Debug\netcoreapp2.1\Circle Area and Perimeter.runtimeconfig.dev.json
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\bin\Debug\netcoreapp2.1\Circle Area and Perimeter.dll
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\bin\Debug\netcoreapp2.1\Circle Area and Perimeter.pdb
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\obj\Debug\netcoreapp2.1\Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\obj\Debug\netcoreapp2.1\Circle Area and Perimeter.AssemblyInfoInputs.cache
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\obj\Debug\netcoreapp2.1\Circle Area and Perimeter.AssemblyInfo.cs
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\obj\Debug\netcoreapp2.1\Circle Area and Perimeter.dll
+D:\Projects\Simple calculations whit number\Circle Area and Perimeter\obj\Debug\netcoreapp2.1\Circle Area and Perimeter.pdb
